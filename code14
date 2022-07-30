@@ -1,0 +1,2 @@
+a="yasaswini"
+print(a.strip())
